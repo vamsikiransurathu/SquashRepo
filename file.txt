@@ -5,3 +5,7 @@ Functional document created.
 commit 2: commit name: Design meeting held.
 
 Design meeting held.
+
+commit 3: commit name: Sprint 1.
+
+Sprint 1 code complete.
