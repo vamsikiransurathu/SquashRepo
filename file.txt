@@ -10,6 +10,10 @@ commit 3: commit name: Sprint 1.
 
 Sprint 1 code complete.
 =========================================================
-commit 3: commit name: 25% bug fixes done
+commit 4: commit name: 25% bug fixes done
 
 25% bug fixes done
+
+commit 5: commit name: 75% bug fixes done
+
+75% bug fixes done
