@@ -9,3 +9,15 @@ Design meeting held.
 commit 3: commit name: Sprint 1.
 
 Sprint 1 code complete.
+=========================================================
+commit 4: commit name: 25% bug fixes done
+
+25% bug fixes done
+
+commit 5: commit name: 75% bug fixes done
+
+75% bug fixes done
+
+commit 6: commit name: other 25% bug fixes done
+
+other 25% bug fixes done
