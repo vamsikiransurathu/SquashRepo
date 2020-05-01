@@ -1,3 +1,7 @@
-commit 1: commit name: A
+commit 1: commit name: A:Functional doc created.
 
 Functional document created.
+
+commit 2: commit name: Design meeting held.
+
+Design meeting held.
